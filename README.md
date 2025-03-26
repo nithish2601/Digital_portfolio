@@ -122,17 +122,3 @@ Here is your customized portfolio HTML code based on the provided details:
 </body>
 </html>
 
-How to Use:
-
-1. Copy the above code into a file and save it as index.html.
-
-
-2. Open the file in a web browser to view your portfolio.
-
-
-3. Customize further if needed.
-
-
-
-Let me know if you need any modifications!
-
