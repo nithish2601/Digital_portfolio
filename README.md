@@ -1,5 +1,3 @@
-Here is your customized portfolio HTML code based on the provided details:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
